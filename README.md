@@ -3,7 +3,7 @@
  
   ### Projeto desenvolvido ultilizando:
   - [x] Swift 5
-  - [x] VIPPER
+  - [x] VIPER
   - [x] Clean Swift
   - [x] xib usando auto layout (iPhone/ iPad)
   - [x] Consumo webApi
