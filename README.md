@@ -11,8 +11,8 @@
   
  ## Print Screen :foggy:
  
-| ![image01](img/pint-login.png) |
-|:---:|
+| ![image01](img/print-login.png) |
+| ------- |
 | Login |
 
 
